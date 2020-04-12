@@ -1,0 +1,108 @@
+body
+
+{
+background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(DVl-LVcXUAEe68m.jpg);
+background-size: cover;
+background-position: center;
+background-attachments: fixed;
+
+}
+.menu{
+	  background-color:#2370a5;
+	  margin:0px;
+	  float:right;
+	  height:80px;
+	  width:1310px;
+}
+.menu {
+  background-color:#2370a5;
+      }
+
+.menu a{ 
+       color:black;
+	   text-align:center;
+	   padding: 20px;
+	   text-decoration:ariel;
+	   float:right;
+	   font-size:22px;
+       
+}          
+.menu a:hover{
+	         background-color:white;
+			 color:black;
+}             
+.cnt{
+	 width:400px;
+	 margin:50px;
+	 background-color:white;
+	 text-align:center;
+        padding:20px;
+    	font-size:15px;
+	border: 5px solid #2370a5 ;
+float:right;
+}
+
+body{
+	font-family: Arial;
+	margin:0;
+	padding:20px;
+	background-color: #f1f1f1;
+	border-left: 10px solid #2370a5 ;
+}
+*{
+	box-sizing: border-box;
+}
+.row:after{
+	content: '';
+	display: table;
+	clear: both;
+}
+header{
+	background-color: #ffffff;
+	padding:30px;
+}
+header h1{
+	text-align:left;
+	font-size:40px;
+	color:#2370a5;
+	margin:1.5 0px;
+	border-left: 10px solid #2370a5 ;
+	 
+}
+
+.left-column{
+float: left;
+width: 75%;	
+}
+
+.right-column{
+ width: 25%;
+ float: right;
+ padding-left:10px;
+}
+.card{
+	padding: 20px;
+	background-color: #ffffff;
+ margin-top:10px;
+
+}
+
+.card img{
+	width:75%;
+border-left: 10px solid #2370a5 ;
+}
+
+
+.right-column .card img{
+	margin-bottom: 20px;
+}
+
+
+footer{
+	background-color: #2370a5;
+	padding: 20px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+
